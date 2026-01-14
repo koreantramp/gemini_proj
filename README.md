@@ -21,7 +21,6 @@ React, TypeScript, Vite, Tailwind CSS로 구축된 간단한 Todo 관리 애플�
   ```
 
 ### 3. 문서
-- **The Essential Guide to DuckLake.pdf**: DuckLake 아키텍처 및 가이드 문서
 - **GEMINI.md**: Gemini CLI 컨텍스트 메모리 파일
 
 ## 환경 설정
